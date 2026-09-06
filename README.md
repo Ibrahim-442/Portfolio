@@ -8,7 +8,11 @@ A modern and responsive portfolio website showcasing my **skills, projects, tech
 
 ## 🌐 Live Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+<p align="center">
+  <a href="https://portfolio-beige-three-21.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-0B5F66?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+  </a>
+</p>
 
 ## ✨ Features
 
