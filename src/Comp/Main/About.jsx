@@ -91,7 +91,7 @@ export default function About() {
             <div className="p-6 sm:p-8 font-mono text-sm leading-8">
 
               <p className="text-zinc-400">
-                // Who am I?
+                {"// Who am I?"}
               </p>
 
               <p>
