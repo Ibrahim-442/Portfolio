@@ -26,7 +26,7 @@ export default function Home() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start my-10 ">
           <a
-            href="link hereeeeeee !!!!"
+            href="https://drive.google.com/file/d/1gpipGAWQx6qQYgwKWKRnukJNgbWFqFZv/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-black font-semibold text-sm px-8 py-3.5 rounded-full hover:bg-teal-400 transition-all duration-300 hover:scale-105"
